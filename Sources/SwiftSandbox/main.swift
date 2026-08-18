@@ -1,2 +1,2 @@
-print("Hello, World!")
-print("Geovana!")
+var myName = "Geovana"
+print("Hello, \(myName)!")
