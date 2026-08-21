@@ -75,3 +75,9 @@ func insert(_ newCard: Int, at index: Int, from stack: [Int]) -> [Int] {
 func checkSizeOfStack(_ stack: [Int], _ size: Int) -> Bool {
     return stack.count == size
 }
+// ou...
+//    if stack.count == size {
+//        return true
+//    } else {
+//        return false
+//    }
